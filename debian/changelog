@@ -1,4 +1,4 @@
-redshift-plasmoid (0.6.2-1~) UNRELEASED; urgency=medium
+redshift-plasmoid (0.6.2-1) experimental; urgency=medium
 
   * Initial release (Closes: #742796)
 
