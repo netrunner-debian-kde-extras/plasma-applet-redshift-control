@@ -1,0 +1,21 @@
+Source: redshift-plasmoid
+Section: kde
+Priority: optional
+Maintainer: Debian KDE Extras Team <pkg-kde-extras@lists.alioth.debian.org>
+Uploaders: Maximiliano Curia <maxy@debian.org>
+Build-Depends: cmake,
+               debhelper (>= 9),
+               kde-workspace-dev,
+               pkg-kde-tools (>= 0.5)
+Standards-Version: 3.9.5
+Homepage: http://kde-apps.org/content/show.php/Redshift+plasmoid?content=148737
+Vcs-Git: git://anonscm.debian.org/pkg-kde/kde-extras/redshift-plasmoid.git
+Vcs-Browser: http://anonscm.debian.org/gitweb/?p=pkg-kde/kde-extras/redshift-plasmoid.git;a=summary
+
+Package: redshift-plasmoid
+Architecture: any
+Depends: redshift, ${misc:Depends}, ${shlibs:Depends}
+Description: Adjusts the color temperature of your screen, KDE plasmoid
+ Redshift plasmoid provides a configuration interface and allows one to
+ start/stop Redshift daemon either manually or automatically based on the
+ current activity.

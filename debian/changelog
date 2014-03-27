@@ -1,0 +1,5 @@
+redshift-plasmoid (0.6.2-1~) UNRELEASED; urgency=medium
+
+  * Initial release (Closes: #nnnn)
+
+ -- Maximiliano Curia <maxy@debian.org>  Thu, 27 Mar 2014 12:47:10 +0100

@@ -1,0 +1,4 @@
+version=3
+
+opts=filenamemangle=s/.+\/v?(\d\S*)\.tar\.gz/redshift-plasmoid-$1\.tar\.gz/ \
+  https://github.com/simgunz/redshift-plasmoid/tags .*/v?(\d\S*)\.tar\.gz
