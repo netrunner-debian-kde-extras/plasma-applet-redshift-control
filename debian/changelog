@@ -1,8 +1,8 @@
-redshift-plasmoid (0.6.2-2) UNRELEASED; urgency=medium
+redshift-plasmoid (0.6.2-2) unstable; urgency=medium
 
   * Release to unstable.
 
- -- Maximiliano Curia <maxy@debian.org>  Thu, 08 May 2014 12:56:11 +0200
+ -- Maximiliano Curia <maxy@debian.org>  Thu, 08 May 2014 12:58:13 +0200
 
 redshift-plasmoid (0.6.2-1) experimental; urgency=medium
 
