@@ -1,3 +1,9 @@
+redshift-plasmoid (1.0-1) UNRELEASED; urgency=medium
+
+  * New upstream release.
+
+ -- Maximiliano Curia <maxy@debian.org>  Mon, 18 Aug 2014 18:28:48 +0200
+
 redshift-plasmoid (0.6.2-2) unstable; urgency=medium
 
   * Release to unstable.
