@@ -13,7 +13,7 @@ Vcs-Git: git://anonscm.debian.org/pkg-kde/kde-extras/plasma-applet-redshift-cont
 Vcs-Browser: http://anonscm.debian.org/gitweb/?p=pkg-kde/kde-extras/plasma-applet-redshift-control.git;a=summary
 
 Package: redshift-plasmoid
-Architecture: any
+Architecture: all
 Depends: redshift, fonts-font-awesome, ${misc:Depends}, ${shlibs:Depends}
 Description: Adjusts the color temperature of your screen, KDE plasmoid
  Redshift plasmoid provides a configuration interface and allows one to
