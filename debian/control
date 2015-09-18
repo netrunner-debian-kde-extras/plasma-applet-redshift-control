@@ -7,7 +7,7 @@ Build-Depends: cmake,
                debhelper (>= 9),
                extra-cmake-modules,
                plasma-framework-dev,
-Standards-Version: 3.9.5
+Standards-Version: 3.9.6
 Homepage: http://kde-apps.org/content/show.php/Redshift+Control?content=170746
 Vcs-Git: git://anonscm.debian.org/pkg-kde/kde-extras/plasma-applet-redshift-control.git
 Vcs-Browser: http://anonscm.debian.org/gitweb/?p=pkg-kde/kde-extras/plasma-applet-redshift-control.git;a=summary
