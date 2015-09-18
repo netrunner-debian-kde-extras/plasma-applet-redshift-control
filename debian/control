@@ -14,7 +14,7 @@ Vcs-Browser: http://anonscm.debian.org/gitweb/?p=pkg-kde/kde-extras/plasma-apple
 
 Package: redshift-plasmoid
 Architecture: any
-Depends: redshift, ${misc:Depends}, ${shlibs:Depends}
+Depends: redshift, fonts-font-awesome, ${misc:Depends}, ${shlibs:Depends}
 Description: Adjusts the color temperature of your screen, KDE plasmoid
  Redshift plasmoid provides a configuration interface and allows one to
  start/stop Redshift daemon either manually or automatically based on the
