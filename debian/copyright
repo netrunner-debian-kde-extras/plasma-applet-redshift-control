@@ -97,6 +97,7 @@ License: OFL-1.1
 
 Files: debian/*
 Copyright: 2014 Maximiliano Curia <maxy@debian.org>
+           2015 Didier Raboud <odyx@debian.org>
 License: GPL-3.0+
 
 License: GPL-3.0+

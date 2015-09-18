@@ -2,7 +2,7 @@ Source: plasma-applet-redshift-control
 Section: kde
 Priority: optional
 Maintainer: Debian KDE Extras Team <pkg-kde-extras@lists.alioth.debian.org>
-Uploaders: Maximiliano Curia <maxy@debian.org>
+Uploaders: Didier Raboud <odyx@debian.org>
 Build-Depends: cmake,
                debhelper (>= 9),
                extra-cmake-modules,
