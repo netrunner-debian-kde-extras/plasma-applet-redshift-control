@@ -1,4 +1,4 @@
 version=3
 
-opts=filenamemangle=s/.+\/v?(\d\S*)\.tar\.gz/redshift-plasmoid-$1\.tar\.gz/ \
-  https://github.com/simgunz/redshift-plasmoid/tags .*/v?(\d\S*)\.tar\.gz
+opts=filenamemangle=s/.+\/v?(\d\S*)\.tar\.gz/plasma-applet-redshift-control-$1\.tar\.gz/ \
+  https://github.com/kotelnik/plasma-applet-redshift-control/tags .*/v?(\d\S*)\.tar\.gz

@@ -1,16 +1,16 @@
-Source: redshift-plasmoid
+Source: plasma-applet-redshift-control
 Section: kde
 Priority: optional
 Maintainer: Debian KDE Extras Team <pkg-kde-extras@lists.alioth.debian.org>
 Uploaders: Maximiliano Curia <maxy@debian.org>
 Build-Depends: cmake,
                debhelper (>= 9),
-               kde-workspace-dev,
-               pkg-kde-tools (>= 0.5)
+               extra-cmake-modules,
+               plasma-framework-dev,
 Standards-Version: 3.9.5
-Homepage: http://kde-apps.org/content/show.php/Redshift+plasmoid?content=148737
-Vcs-Git: git://anonscm.debian.org/pkg-kde/kde-extras/redshift-plasmoid.git
-Vcs-Browser: http://anonscm.debian.org/gitweb/?p=pkg-kde/kde-extras/redshift-plasmoid.git;a=summary
+Homepage: http://kde-apps.org/content/show.php/Redshift+Control?content=170746
+Vcs-Git: git://anonscm.debian.org/pkg-kde/kde-extras/plasma-applet-redshift-control.git
+Vcs-Browser: http://anonscm.debian.org/gitweb/?p=pkg-kde/kde-extras/plasma-applet-redshift-control.git;a=summary
 
 Package: redshift-plasmoid
 Architecture: any
