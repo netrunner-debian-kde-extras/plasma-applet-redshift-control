@@ -12,10 +12,12 @@ Homepage: http://kde-apps.org/content/show.php/Redshift+Control?content=170746
 Vcs-Git: git://anonscm.debian.org/pkg-kde/kde-extras/plasma-applet-redshift-control.git
 Vcs-Browser: http://anonscm.debian.org/gitweb/?p=pkg-kde/kde-extras/plasma-applet-redshift-control.git;a=summary
 
-Package: redshift-plasmoid
+Package: plasma-applet-redshift-control
 Architecture: all
 Depends: redshift, fonts-font-awesome, ${misc:Depends}, ${shlibs:Depends}
-Description: Adjusts the color temperature of your screen, KDE plasmoid
- Redshift plasmoid provides a configuration interface and allows one to
- start/stop Redshift daemon either manually or automatically based on the
- current activity.
+Provides: redshift-plasmoid
+Conflicts: redshift-plasmoid
+Replaces: redshift-plasmoid
+Description: Adjusts the color temperature of your screen
+ Plasma applet to control the redshift process, providing simple settings
+ and mouse-wheel manual screen temperature controlling.
