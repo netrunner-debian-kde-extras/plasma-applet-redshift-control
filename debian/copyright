@@ -4,7 +4,22 @@ Source: https://github.com/kotelnik/plasma-applet-redshift-control
 
 Files: *
 Copyright: 2015, Martin Kotelnik <clearmartin@seznam.cz>
-License: GPL-3.0+
+License: GPL-2.0+
+ This package is free software; you can redistribute it and/or modify
+ it under the terms of the GNU General Public License as published by
+ the Free Software Foundation; either version 2 of the License, or
+ (at your option) any later version.
+ .
+ This package is distributed in the hope that it will be useful,
+ but WITHOUT ANY WARRANTY; without even the implied warranty of
+ MERCHANTABILITY or FITNESS FOR A PARTICULAR PURPOSE.  See the
+ GNU General Public License for more details.
+ .
+ You should have received a copy of the GNU General Public License
+ along with this program. If not, see <http://www.gnu.org/licenses/>
+ .
+ On Debian systems, the complete text of the GNU General Public
+ License version 2 can be found in "/usr/share/common-licenses/GPL-2".
 
 Files: package/contents/fonts/fontawesome-webfont-4.3.0.ttf
 Copyright: 2012-2014, Dave Gandy <drgandy@alum.mit.edu>
@@ -98,8 +113,6 @@ License: OFL-1.1
 Files: debian/*
 Copyright: 2014 Maximiliano Curia <maxy@debian.org>
            2015 Didier Raboud <odyx@debian.org>
-License: GPL-3.0+
-
 License: GPL-3.0+
  This program is free software: you can redistribute it and/or modify
  it under the terms of the GNU General Public License as published by
